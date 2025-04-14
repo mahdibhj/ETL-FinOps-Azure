@@ -1,0 +1,1 @@
+"C:\Program Files\Python312\python.exe" "C:\Users\mabelhad\OneDrive\OneDrive - Ministère de l'Économie, de l'Innovation et de l'Énergie\Documents\Python scripts\main.py"

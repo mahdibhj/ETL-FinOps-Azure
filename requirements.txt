@@ -1,0 +1,7 @@
+requests
+azure-identity
+pandas
+azure-storage-blob
+Xlsxwriter
+datetime
+python-dotenv
